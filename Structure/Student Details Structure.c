@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 
+
 static int Cnt = 0;
 
 struct Stud
@@ -38,6 +39,7 @@ int main()
 
         printf("\n Enter Students Percentage :- ");
         scanf("%f",&Std.Per);
+
     }
 
     getch();
